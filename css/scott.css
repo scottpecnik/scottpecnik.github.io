@@ -21,3 +21,9 @@
   border-bottom-right-radius: 0%;
   border-bottom-left-radius: 0%;
 }
+
+@media (max-width: 767px) {
+  .timeline > li > .timeline-label {
+      left: 40px;
+  }
+}
