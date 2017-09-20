@@ -23,7 +23,7 @@
 }
 
 @media (max-width: 767px) {
-  .timeline > li > .timeline-label {
+  ul.timeline > li > .timeline-label {
       left: 40px;
   }
 }
