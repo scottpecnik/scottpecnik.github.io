@@ -26,4 +26,8 @@
   ul.timeline > li > .timeline-label {
       left: 40px;
   }
+
+  .navbar {
+    padding: 1rem 1.5rem;
+  }
 }
