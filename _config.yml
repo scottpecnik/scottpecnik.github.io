@@ -26,6 +26,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+google_analytics: UA-21006521-1
 # Custom vars
 # version:            3.4.1
 # sidebar_home_link:  true
