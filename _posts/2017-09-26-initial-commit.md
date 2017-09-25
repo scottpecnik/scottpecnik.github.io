@@ -4,8 +4,6 @@ title: Hello World
 excerpt_separator:  <!--more-->
 ---
 
-### Initial Commit
-
 Thanks for stopping by.  It's been a while since I've had a personal web page.
 
 Regaining a little personal real estate on the net has been on the bucket list
