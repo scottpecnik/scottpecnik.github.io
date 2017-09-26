@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Scott Pecnik
-tagline:          'A Jekyll theme'
+tagline:          'Think and Do'
 description:      'DevOps Consultant, Startup Enthusiast, Determined Dreamer'
 url:              http://scottpecnik.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
