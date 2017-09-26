@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Scott Pecnik
 tagline:          'Think and Do'
-description:      'DevOps Consultant, Startup Enthusiast, Determined Dreamer'
+description:      'DevOps Consultant, Technology Enthusiast, Determined Dreamer'
 url:              http://scottpecnik.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
