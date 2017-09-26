@@ -29,6 +29,7 @@ plugins:
 google_analytics: UA-21006521-1
 # Custom vars
 # version:            3.4.1
+permalink: pretty
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
