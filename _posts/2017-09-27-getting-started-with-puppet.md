@@ -95,7 +95,7 @@ you can deploy your code using the following command:
 puppet-code deploy --all --wait
 {% endhighlight %}
 
-*--all refers to Puppet environment, which relates to git branch name*
+*"--all" refers to Puppet environment, which relates to git branch name*
 
 ### Final Words of Wisdom
 
