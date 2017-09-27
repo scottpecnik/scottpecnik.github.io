@@ -68,8 +68,8 @@ I won't go too deep as it's well documented in the previous link, but in short y
 need to do the following:
 - Make sure the git remote that holds your puppet control repo can be accessed
 by the machine the master lives on.
-- A private key to read the git repo needs to exist on the master machine
-somewhere.
+- Download an ssh key (used to authenticate with git) from your remote repo and
+place it on the master machine somewhere.
 - Tell Puppet about these things via the Puppet master console:
   - Click on **classification**->**PE Master**, provide the URL of the
   control repo and the location of the private key used to access it.
