@@ -31,6 +31,8 @@ google_analytics: UA-21006521-1
 # version:            3.4.1
 permalink: pretty
 sidebar_home_link:  true
+disqus:
+  shortname: scottpecnik
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
