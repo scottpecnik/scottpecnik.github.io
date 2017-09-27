@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting Started with Puppet
+tags: puppet devops cd automation
+category: puppet
 excerpt_separator:  <!--more-->
 ---
 
