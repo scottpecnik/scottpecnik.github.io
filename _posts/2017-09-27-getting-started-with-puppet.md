@@ -6,14 +6,14 @@ category: puppet
 excerpt_separator:  <!--more-->
 ---
 
-I recently started a new consulting engagement, the focus is on
-building Continuous Delivery (CD) automation with Puppet.
-This is pretty typical for "DevOps" gigs, but we'll leave it at that and delve
-into the DevOpsy stuff in a later post.  
+I recently started a new consulting engagement, the focus is on building
+Continuous Delivery (CD) automation with Puppet. This is pretty typical for
+"DevOps" gigs, but we'll leave it at that and delve into the DevOpsy stuff
+in a later post.  
 
-My intention is to document how to get started implementing Puppet.  
-Not because it doesn't already exist (it does - aplenty), but because
-it seems there is more to talk about, and I'd like to provide my take on the subject.
+My intention is to document how to get started implementing Puppet.  Not because
+it doesn't already exist (it does - aplenty), but because it seems there is
+more to talk about, and I'd like to provide my take on the subject.
 
 ### What is Puppet?
 
