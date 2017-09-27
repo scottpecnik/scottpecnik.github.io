@@ -6,7 +6,7 @@ category: puppet
 excerpt_separator:  <!--more-->
 ---
 
-I recently started a new consulting engagement.  The focus is on
+I recently started a new consulting engagement, the focus is on
 building Continuous Delivery (CD) automation with Puppet.
 This is pretty typical for "DevOps" gigs, but we'll leave it at that and delve
 into the DevOpsy stuff in a later post.  
