@@ -14,7 +14,7 @@ in a later post.
 My intention is to document how to get started implementing Puppet.  Not because
 it doesn't already exist (it does - aplenty), but because it seems there is
 more to talk about, and I'd like to provide my take on the subject.
-
+<!--more-->
 ### What is Puppet?
 
 The obligatory - what is Puppet?  I'll keep it short and sweet, Puppet is a configuration
