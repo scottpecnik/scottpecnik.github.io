@@ -13,8 +13,8 @@ vision over the coming weeks.
 
 Since starting is the hardest part (and in the spirit of Agile), here is my initial commit!
 
-```
+{% highlight bash %}
   git add -A
   git commit -m "Initial Commit"
   git push origin master
-```
+{% endhighlight %}
