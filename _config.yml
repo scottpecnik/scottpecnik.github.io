@@ -25,11 +25,11 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
 
 google_analytics: UA-21006521-1
 # Custom vars
 # version:            3.4.1
-# permalink: pretty
 permalink: /:year/:month/:day/:title/
 sidebar_home_link:  true
 disqus:
