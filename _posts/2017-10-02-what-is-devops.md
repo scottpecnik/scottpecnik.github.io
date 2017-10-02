@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is DevOps
+tags: devops automation people process tools
 category: devops
 excerpt_separator:  <!--more-->
 ---
