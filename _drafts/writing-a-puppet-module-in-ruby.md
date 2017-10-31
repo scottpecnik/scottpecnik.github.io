@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing a Custom Puppet Module in Ruby
+title: Writing a Puppet Module in Ruby
 excerpt_separator:  <!--more-->
 ---
 
@@ -48,9 +48,9 @@ exec type.
 {% highlight ruby %}
 
 exec { 'createElasticSearchIndex':
-  command     => 'curl -XPUT localhost:9200/_template/_someIndex/',
+  command     => 'curl -XPUT http://localhost:9200/_template/sometemplate/',
   path        => ['/usr/bin', '/usr/sbin'],
-  unless      => 'curl -XGET localhost:9200/_template/_someIndex/',
+  unless      => 'curl -I --fail http://localhost:9200/_template/sometemplate',
 }
 
 {% endhighlight %}
@@ -60,5 +60,13 @@ explain, it didn't work.
 
 ### Elegant Solution
 
-To be honest, I was kind of glad the above didn't work.  I despise hacking things
-up, and was looking for an excuse to do this the right way.
+To be honest, I was glad the above didn't work.  I despise hacking things
+up and was looking for an excuse to do this the right way.  Let's get on with it.
+
+<!--more-->
+
+#### Puppet Module Generator
+
+#### Types and Providers
+
+#### Testing your Module
