@@ -77,16 +77,15 @@ place it on the master machine somewhere.
 
 Done, now puppet knows where to grab your code from and what to use to access it.
 Next we just need to tell puppet to go get it.  Remember that deployment user
-you just created?  Well it's time to put it to use.  SSH into your master,
-switch user to **pvadmin** and run the following:
+you just created?  Well it's time to put it to use.  SSH into your master and
+run the following:
 
 {% highlight bash %}
 puppet-access login --service-url https://<HOSTNAME OF PUPPET ENTERPRISE CONSOLE>:4433/rbac-api --lifetime 180d
 {% endhighlight %}
 
 You'll be prompted to type in the userid/pass of your deployment user, which will
-create a token and save it to /home/pvadmin/.puppetlabs/token. *If you chose a user
-other than pvadmin, the token will be located accordingly.*
+create a token and save it to /home/youruser/.puppetlabs/token.
 
 Now that the code manager cli knows how to communicate with the puppet master,
 you can deploy your code using the following command:
