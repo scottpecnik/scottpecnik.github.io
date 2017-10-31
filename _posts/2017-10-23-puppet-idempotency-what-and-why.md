@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Puppet Idempotency - What and Why
+tags: puppet automation
+category: puppet
 excerpt_separator:  <!--more-->
 ---
 
