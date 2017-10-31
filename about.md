@@ -7,7 +7,7 @@ order: 3
 
 <p class="message">
   My name is Scott. I'm addicted to all things DevOps, IT, programming, coffee,
-  and running. When I was 25 I started a started a consultancy focused on product
+  and running. When I was 25 I started a consultancy focused on product
   support for the IBM DevOps suite of products.  Four and a half years and one
   hell of a ride later, I've found myself in Melbourne, Australia living yet
   another adventure.
