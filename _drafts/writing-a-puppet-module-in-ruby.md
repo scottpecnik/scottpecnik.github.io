@@ -63,8 +63,6 @@ explain, it didn't work.
 To be honest, I was glad the above didn't work.  I despise hacking things
 up and was looking for an excuse to do this the right way.  Let's get on with it.
 
-<!--more-->
-
 #### Puppet Module Generator
 
 #### Types and Providers
