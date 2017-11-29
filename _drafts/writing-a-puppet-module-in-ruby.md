@@ -88,7 +88,15 @@ puppet module generate authorname/modulename
 
 {% endhighlight %}
 
+The module generate will start up a text based wizard that asks you a few questions
+about your module:
+
 ![puppet module generate]({{ site.name }}/assets/images/creatingrubymod/puppet_module_generate.png)
+
+After you've answered all your questions, a boilerplate project will be generated
+for you.
+
+![boiler plate project]({{ site.name }}/assets/images/creatingrubymod/boiler_plate_project.png)
 
 #### Types and Providers
 
