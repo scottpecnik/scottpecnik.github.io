@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Puppet
+title: Getting Started with Puppet (Enterprise)
 tags: puppet devops cd automation
 category: puppet
 excerpt_separator:  <!--more-->
@@ -55,15 +55,17 @@ people at Puppet Labs have created the defacto starting point.  Clone
 [the control repo](https://puppet.com/download-learning-vm), do
 it and appreciate it.  You'll thank me later.
 
-#### Deploying Puppet Code
+#### Deploying Puppet Code (with PE)
 
 *I'm making the assumption that you've already got a Puppet Master installed,
 and that you're running Enterprise (Enterprise is free for up to 10 nodes).*
 
-In order to run puppet code via an agent, you'll need to
-deploy it to the master.  Your google research will return things like **r10k**
-and **code manager**, ignore r10k, you're starting from scratch so no point
-in touching something that is being replaced.  You're going to use [code manager, but you need to set it up first](https://docs.puppet.com/pe/latest/code_mgr_config.html#enable-code-manager-after-installation).
+In order to run puppet code on a node with the typical master/agent configuration,
+you'll need to deploy your control repo to the master.  If you're using open
+source puppet, **r10k** is what you'll use to do this. Since I'm making the
+assumption that you're using Puppet Enterprise (PE), the rest of this article
+discusses [how to setup **code manager**](https://docs.puppet.com/pe/latest/code_mgr_config.html#enable-code-manager-after-installation).
+
 I won't go too deep as it's well documented in the previous link, but in short you'll
 need to do the following:
 - Make sure the git remote that holds your puppet control repo can be accessed
