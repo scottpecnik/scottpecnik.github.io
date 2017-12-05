@@ -1,6 +1,5 @@
 
 .aboutimg {
-
   margin-left: auto;
   margin-right: auto;
   height: 30px;
@@ -8,4 +7,39 @@
   border-radius: 5px;
   height: auto; // Fix to keep max-width from squishing images with defined
                 // height in HTML
+}
+
+input[type="email"], input[type="name"], textarea, button {
+  padding: $padding-v $padding-h;
+  border: 1px solid $border-color;
+}
+
+button {
+  border-radius: 0;
+}
+
+.contactField {
+  margin: 10px;
+}
+
+.contactField input, textarea {
+  width: 100%;
+}
+
+
+.contactField textarea {
+  height: 200px;
+}
+
+.contactButton {
+  margin: 10px;
+  float: right;
+}
+
+.contactButton button {
+  width: 100px;
+}
+
+#formSubmitted {
+  padding: $padding-v $padding-h;
 }
