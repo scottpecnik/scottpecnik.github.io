@@ -32,7 +32,7 @@ order: 4
     $('#contactForm').on('submit', function(e) {
       e.preventDefault();
       $.ajax({
-        url: "https://formspree.io/srpecnik+website@gmail.com",
+        url: "https://formspree.io/contact@scottpecnik.com",
         method: "POST",
         data: {
           name: $('#name').val(),
