@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Writing a Puppet Module in Ruby
+tags: puppet automation module ruby REST Elasticsearch
+category: puppet
 excerpt_separator:  <!--more-->
 ---
 
