@@ -136,7 +136,7 @@ end
 
 {% endhighlight %}
 
-OK so we start by calling **newType** to tell puppet about our type.  We then use the word **ensureable**, to tell the puppet framework that this is an ensureable resource. Think back to the basics here, puppet is a tool that allows us to describe and then enforce the state of a system.  The module we are writing will ensure that either an index template exists or does not exist in elasticsearch.  The ensureable piece contains a bit of magic, but we'll get to that when we discuss our provider.
+We start by calling **newType** to tell puppet about our type.  We then use the word **ensureable**, to tell the puppet framework that this is an ensureable resource. Think back to the basics here, puppet is a tool that allows us to describe and then enforce the state of a system.  The module we are writing will ensure that either an index template exists or does not exist in elasticsearch.  The ensureable piece contains a bit of magic, but we'll get to that when we discuss our provider.
 
 Finally, we round out the type with a list of parameters and properties. Parameters help dictate how the controller enforces state on the system, while properties usually map directly to resources on the system. See the below example for an explanation written in puppet code.
 
@@ -161,6 +161,7 @@ elasticsearch_template { 'template_1':
   servername => 'localhost',
   port       => '9201',
   ssl        => false,
+  content    => '/temp/template_1.json',
 }
 
 {% endhighlight %}
