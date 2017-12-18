@@ -21,7 +21,7 @@ order: 3
 - **Planit Software Testing**, *DevOps Delivery Manager*\\
 Established a DevOps practice by creating, marketing, and implementing DevOps services offerings. Built capability by providing training and mentorship for existing employees and by hiring new talent. Led onsite implementations while simultaneously building brand awareness through speaking engagements, webinars, and general sales activities. The face of the DevOps practice both internally and externally.
 - **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
-Founded and built a successful DevOps consulting firm. Customers ranged from multinational financial institutions to automative parts manufacturers to regional insurance companies. Grew the company to $1MM in annual revenue in three years. Received the accolade of IBM Premier Business Partner.
+Founded and built a successful DevOps consulting firm. Grew the company to $1MM in annual revenue in just three years. Customers ranged from multinational financial institutions to automative parts manufacturers to regional insurance companies. Received the accolade of IBM Premier Business Partner.
 - **ClearBlade, Inc.**, *Consultant*\\
 Enterprise Modernization Consultant, providing services for the IBM Rational Business Developer (RBD) and IBM Rational Team Concert (RTC) products.
 - **IBM**, *Software Developer*\\
