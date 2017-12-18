@@ -19,7 +19,7 @@ order: 3
 
 # Work History
 - **Planit Software Testing**, *DevOps Delivery Manager*\\
-Established a DevOps practice, created brand awareness of new services offerings and built technical delivery capability.
+Established a DevOps practice, building brand awareness for new services offerings while ensuring technical delivery capability.
 - **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
 Founded and built a successful DevOps consulting firm. Customers ranged from multinational financial institutions to automative parts manufacturers to regional insurance firms. Grew the company to $1MM in annual revenue in three years. Received the accolade of IBM Premier Business Partner.
 - **ClearBlade, Inc.**, *Consultant*\\
