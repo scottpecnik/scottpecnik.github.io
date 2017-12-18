@@ -16,3 +16,29 @@ order: 3
 </p>
 
 ![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
+
+## Work History
+- **Planit Software Testing**, *DevOps Delivery Manager*\\
+Established a DevOps practice, created brand awareness of new services offerings and built technical delivery capability.
+- **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
+Founded and built a successful DevOps consulting firm. Customers ranged from multinational financial institutions to automative parts manufacturers to global insurance firms. Grew the company to $1MM in annual revenue in three years. Received the accolade of IBM Premier Business Partner.
+- **ClearBlade, Inc.**, *Consultant*\\
+Enterprise Modernization Consultant, providing services for the IBM Rational Business Developer (RBD) and IBM Rational Team Concert (RTC) products.
+- **IBM**, *Software Developer*\\
+Software developer on the IBM Rational Team Concert Enterprise Edition product. Responsible for various components, including RTC/RDz integration.
+- **IBM**, *Extreme Blue Technical Intern*\\
+Created an end-to-end software solution focused on easing the development of RESTful web services. Led a team of four in what was a rigorous 12 week program, which culminated in a successful product delivery and a demo to the CEO of IBM, Sam Palmisano.
+
+## Speaking Engagements
+- **Puppet Camp, Melbourne 2017**\\
+Panviva Puppetry
+- **InterConnect 2016**\\
+Texas Farm Bureau Automates Deployments to System z
+- **SHARE 2014**\\
+Integrating RTC Enterprise with ChangeMan Package Management and Build
+- **Innovate 2013**\\
+z/OS Development, Then and Now
+- **Innovate 2011 (General Session/Keynote)**\\
+Accelerating Modernization through IT and Enterprise Modernization
+- **Innovate 2011**\\
+Developing for System z, There’s a Serious Youth Movement Afoot!
