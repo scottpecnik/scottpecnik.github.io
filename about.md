@@ -19,15 +19,15 @@ order: 3
 
 # Work History
 - **Planit Software Testing**, *DevOps Delivery Manager*\\
-Established a DevOps practice, building brand awareness for new services offerings while ensuring technical delivery capability.
+Established a DevOps practice, grew brand awareness for new services offerings while ensuring technical delivery capability.
 - **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
 Founded and built a successful DevOps consulting firm. Customers ranged from multinational financial institutions to automative parts manufacturers to regional insurance firms. Grew the company to $1MM in annual revenue in three years. Received the accolade of IBM Premier Business Partner.
 - **ClearBlade, Inc.**, *Consultant*\\
 Enterprise Modernization Consultant, providing services for the IBM Rational Business Developer (RBD) and IBM Rational Team Concert (RTC) products.
 - **IBM**, *Software Developer*\\
-Software developer on the IBM Rational Team Concert Enterprise Edition product. Responsible for various components, including RTC/RDz integration.
+Java Developer for the IBM Rational Team Concert Enterprise Edition product. Responsible for various components, including RTC/RDz integration.
 - **IBM**, *Extreme Blue Technical Intern*\\
-Created an end-to-end software solution focused on easing the development of RESTful web services. Led a team of four in what was a rigorous 12 week program, which culminated in a successful product delivery and a demo to the CEO of IBM, Sam Palmisano.
+Created an end-to-end software solution focused on easing the development of RESTful web services. Led a team of four in a rigorous 12 week program, which culminated in a successful product delivery and a demo to the CEO of IBM, Sam Palmisano.
 
 # Speaking Engagements
 - **Puppet Camp, Melbourne 2017**\\
