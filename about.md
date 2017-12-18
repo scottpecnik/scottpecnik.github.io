@@ -15,7 +15,6 @@ order: 3
   company of good people.
 </p>
 
-# Profile
 ![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
 
 # Work History
@@ -33,13 +32,13 @@ Created an end-to-end software solution focused on easing the development of RES
 # Speaking Engagements
 - **Puppet Camp, Melbourne 2017**\\
 Panviva Puppetry
-- **InterConnect 2016**\\
+- **IBM InterConnect 2016**\\
 Texas Farm Bureau Automates Deployments to System z
 - **SHARE 2014**\\
 Integrating RTC Enterprise with ChangeMan Package Management and Build
-- **Innovate 2013**\\
+- **IBM Innovate 2013**\\
 z/OS Development, Then and Now
-- **Innovate 2011 (General Session/Keynote)**\\
+- **IBM Innovate 2011 (General Session/Keynote)**\\
 Accelerating Modernization through IT and Enterprise Modernization
-- **Innovate 2011**\\
+- **IBM Innovate 2011**\\
 Developing for System z, There’s a Serious Youth Movement Afoot!
