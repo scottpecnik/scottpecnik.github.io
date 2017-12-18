@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Makes a Good DevOps Consultant
+title: Thoughts on Consulting
 tags:
-category: 
+category:
 excerpt_separator:  <!--more-->
 ---
