@@ -15,9 +15,10 @@ order: 3
   company of good people.
 </p>
 
+# Profile
 ![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
 
-## Work History
+# Work History
 - **Planit Software Testing**, *DevOps Delivery Manager*\\
 Established a DevOps practice, created brand awareness of new services offerings and built technical delivery capability.
 - **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
@@ -29,7 +30,7 @@ Software developer on the IBM Rational Team Concert Enterprise Edition product. 
 - **IBM**, *Extreme Blue Technical Intern*\\
 Created an end-to-end software solution focused on easing the development of RESTful web services. Led a team of four in what was a rigorous 12 week program, which culminated in a successful product delivery and a demo to the CEO of IBM, Sam Palmisano.
 
-## Speaking Engagements
+# Speaking Engagements
 - **Puppet Camp, Melbourne 2017**\\
 Panviva Puppetry
 - **InterConnect 2016**\\
