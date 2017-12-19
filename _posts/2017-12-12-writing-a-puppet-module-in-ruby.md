@@ -102,7 +102,7 @@ Back to the code, let's start by building a structure under the lib folder that 
 
 Next, create a ruby file under the type folder. The name of the file is arbitrary, but for those that will come after us, it is probably best to use the name of our type as the name of the file.
 
-If you're anything like me, you'd prefer to just cut to the chase and see the code. So below is the entirety of our type definition. Take a gandor, and then read on for a description of its parts.
+If you're anything like me, you'd prefer to just cut to the chase and see the code. So below is the entirety of my type definition. Take a gandor, and then read on for a description of its parts.
 
 {% highlight ruby %}
 
