@@ -17,7 +17,7 @@ order: 3
 
 ![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
 
-# Work History
+# Work
 - **Planit Software Testing**, *DevOps Delivery Manager*\\
 Established a DevOps practice by creating, marketing, and implementing DevOps services offerings. Built capability by providing training and mentorship for existing employees and by hiring new talent. Led onsite implementations while simultaneously building brand awareness through speaking engagements, webinars, and general sales activities. The face of the DevOps practice both internally and externally.
 - **PacGenesis, Inc.**, *Founder, CEO, and Principal Consultant*\\
