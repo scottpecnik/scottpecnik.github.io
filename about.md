@@ -29,7 +29,7 @@ Java Developer for the IBM Rational Team Concert Enterprise Edition product. Res
 - **IBM**, *Extreme Blue Technical Intern*\\
 Designed and coded an end-to-end software solution focused on easing the development of RESTful web services. Led a team of four in a rigorous 12 week program, which culminated in a successful product delivery and a demo to the CEO of IBM, Sam Palmisano.
 
-# Speaking Engagements
+# Speaking
 - **Puppet Camp, Melbourne 2017**\\
 Panviva Puppetry
 - **IBM InterConnect 2016**\\
