@@ -3,7 +3,8 @@ layout: page
 title: Public PGP
 ---
 
-{:#gpgKey}
+<pre>
+<!-- {:#gpgKey} -->
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFpJD3wBCADHIRmf4ziqBrm26iBHP/6eJB515E1p7zDxUeDqlFvqrD05yCCx
@@ -48,3 +49,4 @@ xIsr59xQOC7VngiUvQ==
 =9niP
 
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
