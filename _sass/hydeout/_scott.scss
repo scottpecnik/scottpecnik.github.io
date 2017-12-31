@@ -33,13 +33,29 @@ button {
 
 .contactButton {
   margin: 10px;
-  float: right;
+}
+
+.contactButton:after {
+  content: " ";
+  display: block;
+  clear: both;
 }
 
 .contactButton button {
-  width: 100px;
+  float: right;
+  padding-right: 1.75em;
+  padding-left: 1.75em;
 }
 
 #formSubmitted {
   padding: $padding-v $padding-h;
+}
+
+#contactGPGMessage {
+  margin: 10px;
+  margin-top: 2em;
+}
+
+#gpgKey {
+  margin-top: 2em;
 }

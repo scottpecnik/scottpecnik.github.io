@@ -22,6 +22,10 @@ order: 4
   </form>
 </div>
 
+{:#contactGPGMessage}
+To send me an encrypted message, my public PGP key can be found [here]({{site.baseurl}}/public-pgp/).
+
+
 <div id="formSubmitted" style="display:none">
   <p></p>
 </div>
@@ -43,18 +47,21 @@ order: 4
         beforeSend: function() {
           console.log('Sending!');
           $('#contactForm').hide();
+          $('#contactGPGMessage').hide();
           $('#formSubmitted').show();
           $('#formSubmitted p').text("Sending...");
         },
         success: function() {
           console.log('success');
           $('#contactForm').hide();
+          $('#contactGPGMessage').hide();
           $('#formSubmitted').show();
           $('#formSubmitted p').text("Thanks for your email!  I'll be in touch.");
         },
         error: function() {
           console.log('error');
           $('#contactForm').hide();
+          $('#contactGPGMessage').hide();
           $('#formSubmitted').show();
           $('#formSubmitted p').text("Oops!  Looks like something went wrong.");
         }   
