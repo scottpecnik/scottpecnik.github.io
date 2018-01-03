@@ -52,7 +52,7 @@ confused as to what you can do with Puppet.  Don't worry, you're in good company
 
 This is why it's important to start with "something", and luckily for us the good
 people at Puppet Labs have created the defacto starting point.  Clone
-[the control repo](https://puppet.com/download-learning-vm), do
+[the control repo](https://github.com/puppetlabs/control-repo), do
 it and appreciate it.  You'll thank me later.
 
 #### Deploying Puppet Code (with PE)
