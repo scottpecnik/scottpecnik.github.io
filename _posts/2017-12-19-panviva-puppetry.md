@@ -2,7 +2,7 @@
 layout: post
 title: Panviva Puppetry
 tags: Puppet ApplicationOrchestration PuppetCamp InfrastructureManagement PuppetEnterprise
-category: Puppet
+category: puppet
 excerpt_separator:  <!--more-->
 ---
 
