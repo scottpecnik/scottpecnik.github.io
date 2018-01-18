@@ -30,4 +30,6 @@ I fixed up my audition video incorporating the requested changes, sent it back f
 
 If you're interested, below is my Pluralsight audition video that never got accepted or rejected.  Let me know what you think.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aImTafuFjYE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="margin-top: 20px; margin-bottom: 35px;"></iframe>
+<div class="vid-container">
+<iframe src="https://www.youtube.com/embed/aImTafuFjYE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
