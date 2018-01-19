@@ -13,6 +13,9 @@ Computer Science and Business Management - Finance.
 I'm passionate about consulting, solving problems, and I prefer to do so in the
 company of good people.
 
+<!-- # Profile -->
+![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
+
 # Work
 **Planit Software Testing**, *DevOps Delivery Manager*\\
 Established a DevOps practice by creating, marketing, and implementing DevOps services offerings. Built capability by providing training and mentorship for existing employees and by hiring new talent. Led onsite implementations while simultaneously building brand awareness through speaking engagements, webinars, and general sales activities. The face of the DevOps practice both internally and externally.
@@ -47,6 +50,3 @@ Accelerating Modernization through IT and Enterprise Modernization
 
 **IBM Innovate 2011**\\
 Developing for System z, There’s a Serious Youth Movement Afoot!
-
-<!-- # Profile -->
-![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
