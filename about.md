@@ -48,5 +48,5 @@ Accelerating Modernization through IT and Enterprise Modernization
 **IBM Innovate 2011**\\
 Developing for System z, There’s a Serious Youth Movement Afoot!
 
-# Profile
+<!-- # Profile -->
 ![scott]({{ site.name }}/assets/images/scott.jpg){: .aboutimg }
