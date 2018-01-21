@@ -5,7 +5,7 @@ sidebar_link: true
 order: 3
 ---
 
-My name is Scott. I'm addicted to all things DevOps, IT, programming, coffee, and running. When I was 25 I started a consultancy focused on product support for the IBM DevOps suite of products.  Four and a half years and a fantastic ride later, I decided to move to Australia in a completely new test of wit.  After a successful tenure at a leading consultancy in the Australia/New Zealand region, I've returned home to the USA and jumped head first .
+My name is Scott. I'm addicted to all things DevOps, IT, programming, coffee, and running. When I was 25 I started a consultancy focused on product support for the IBM DevOps suite of products.  Four and a half years and a fantastic ride later, I decided to move to Australia seeking a completely new and different adventure.  After a successful tenure at a leading consultancy in the Australia/New Zealand region, I've returned home to the USA and am currently providing DevOps consulting services.
 
 I'm an avid NC State Wolfpack fan, of which I proudly hold degrees in both
 Computer Science and Business Management - Finance.
