@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thoughts on Consulting
-tags:
-category:
+title: My Thoughts on Consulting
+tags: consulting
+category: consulting
 excerpt_separator:  <!--more-->
 ---
