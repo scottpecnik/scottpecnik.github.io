@@ -1,8 +1,13 @@
 {% if site.disqus.shortname %}
   <div id="disqus_thread">
-    <button class="disqus-load" onClick="loadDisqusComments()">
+    <!-- <button class="disqus-load" onClick="loadDisqusComments()">
       Load Comments
-    </button>
+    </button> -->
+    <script>
+      $(document).ready(function() {
+        loadDisqusComments()
+      });
+    </script>
   </div>
   <script>
 
